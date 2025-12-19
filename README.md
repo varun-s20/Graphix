@@ -2,6 +2,7 @@
 
 A responsive ReactFlow-based application for visualizing and managing service application graphs.
 
+<img width="1919" height="882" alt="image" src="https://github.com/user-attachments/assets/337b83d5-7d63-4742-a48d-80483f6c121e" />
 
 ## Features
 
